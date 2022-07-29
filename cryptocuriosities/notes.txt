@@ -1,0 +1,32 @@
+waveportal: 
+
+https://waveportal-prototype.atdinesh.repl.co/
+
+The waveportal is kind of a web3 version of twitter. It is a place where anyone can say hello and send a message. 
+These data will be saved on the Ethereum bockchain.This wavePortal is my first experience of learning while building and deploying my first Ethereum smart contract as well as the associated website.
+
+Here are some of the features of this website: 
+-  Visitors can connect their wallet to the website and interact with the smart contract.
+- There is small chance for people waving to receive a small ETH amount.
+- there is a cooldown functionnality to prevent people from spamming.
+
+
+
+Mint your own NFT collection and ship a Web3 app to show them off
+https://nft-starter-repo-buildspace-1.atdinesh.repl.co
+
+I used this project to discover a little more about NFTs. 
+The aim of this project is to let users connect their Ethereum wallet to the Web3 app and  mint an NFT that they will own. 
+This project is not focusing on the graphical aspect of the NFT. Thus, NFT are actually composed of 3 words.
+
+Some of the features of that project: 
+- 
+
+
+NFT game project
+https://nft-game-starter-project.atdinesh.repl.co
+(open in chrome-based browsers)
+
+
+Solana: the Gif portal
+
