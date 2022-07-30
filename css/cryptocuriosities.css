@@ -1,0 +1,27 @@
+.imageDetails {
+    margin-left:2%;
+   float:left; 
+   width: 350px;
+   height: auto;
+   }
+
+.projectPresentation {
+    width:350px;
+    height:auto;
+    padding:1%;
+    float:left;
+}
+
+.imageDetailsLargeToSmall {
+    margin-left:2%;
+   float:left; 
+   width: 250px;
+   height: auto;
+   }
+
+.projectPresentationLargeToSmall {
+    width:450px;
+    height:auto;
+    padding:1%;
+    float:left;
+}
